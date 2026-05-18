@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "f47fb05cd52ad374",
+    "type": "split",
+    "children": [
+      {
+        "id": "f32d5e523c67a164",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d298dfe1dd044ae5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40d7b991c74a3cc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9bccff5c5829fc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0317f3be61d236a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "09b9e436fd25e0af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f6f01ff55fd6e4c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71aa2494ca9d8ecd",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f763872f15063fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f771002675a446c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "templates/article.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for article"
+            }
+          },
+          {
+            "id": "50767a632e753549",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "templates/article.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from article"
+            }
+          },
+          {
+            "id": "da54001caffff532",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6975ba2ab2ed9e90",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2ef5e521ae18e8f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "templates/article.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of article"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d298dfe1dd044ae5",
+  "lastOpenFiles": [
+    "src/content/docs/districts/Wohnviertel.md",
+    "src/content/docs/landmarks/Annasplatz.md",
+    "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/test/index.test.ts",
+    "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/test",
+    "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/src/types/mdast-util-to-markdown.d.ts",
+    "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/src/types/micromark-extension-wiki-link.ts",
+    "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/src/types",
+    "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/src/to-markdown.ts",
+    "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/src/index.ts",
+    "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/src/from-markdown.ts",
+    "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/src",
+    "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/README.md",
+    "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/tsconfig.json",
+    "node_modules/micromark-extension-wiki-link/README.md",
+    "node_modules/remark-wiki-link/README.md",
+    "node_modules/remark-wiki-link/node_modules/@types/unist/README.md",
+    "node_modules/remark-wiki-link/node_modules/zwitch/readme.md",
+    "node_modules/remark-wiki-link/node_modules/parse-entities/readme.md",
+    "node_modules/remark-wiki-link/node_modules/mdast-util-to-string/readme.md",
+    "node_modules/remark-wiki-link/node_modules/mdast-util-to-markdown/readme.md",
+    "node_modules/remark-wiki-link/node_modules/longest-streak/readme.md",
+    "node_modules/remark-wiki-link/node_modules/is-hexadecimal/readme.md",
+    "node_modules/remark-wiki-link/node_modules/is-decimal/readme.md",
+    "node_modules/remark-wiki-link/node_modules/is-alphanumerical/readme.md",
+    "node_modules/remark-wiki-link/node_modules/is-alphabetical/readme.md",
+    "node_modules/remark-wiki-link/node_modules/character-reference-invalid/readme.md",
+    "node_modules/remark-wiki-link/node_modules/character-entities-legacy/readme.md",
+    "node_modules/remark-wiki-link/node_modules/character-entities/readme.md",
+    "src/content/docs/factions/Perilous Peregrine Questing Co.md",
+    "src/content/docs/landmarks/Rathaus.md",
+    "src/content/docs/people/anna-senfbauer.md",
+    "src/content/docs/people/ernst-and-felix-der-rote.md",
+    "src/content/docs/landmarks/omas-kuche.md",
+    "src/content/docs/people/hildegard-sumpfgas.md",
+    "src/content/docs/guides/Introduction.md",
+    "node_modules/@portaljs/remark-wiki-link/README.md",
+    "src/assets/logo.webp",
+    "src/assets/logo.svg",
+    "public/logo.svg",
+    "public/logo.webp",
+    "public/Logo.webp",
+    "public/Logo.svg",
+    "src/assets/houston.webp",
+    "public/favicon.svg"
+  ]
+}

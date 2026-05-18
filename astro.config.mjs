@@ -2,23 +2,27 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
-// https://astro.build/config
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			title: 'Gelbenhügel',
 			sidebar: [
 				{
 					label: 'Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'Introduction', slug: 'guides/introduction' },
+						{ label: 'About your world', slug: 'guides/about' },
+						{ label: 'Creating a character', slug: 'guides/creating-a-character' },
 					],
 				},
 				{
-					label: 'Reference',
-					items: [{ autogenerate: { directory: 'reference' } }],
+					label: 'Volk',
+					items: [{ autogenerate: { directory: 'volk' } }],
+				},				
+				{
+					label: 'Districts',
+					items: [{ autogenerate: { directory: 'districts' } }],
 				},
 			],
 		}),
