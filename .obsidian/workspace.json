@@ -11,10 +11,12 @@
             "id": "d298dfe1dd044ae5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "src/assets/logo.webp"
+              },
+              "icon": "lucide-image",
+              "title": "logo"
             }
           }
         ]
@@ -179,8 +181,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "d298dfe1dd044ae5",
+  "active": "0317f3be61d236a3",
   "lastOpenFiles": [
+    "src/assets/logo.svg",
+    "src/content/docs/landmarks/omas-kuche.md",
+    "src/assets/logo.webp",
+    "src/assets/logo.webp",
     "src/content/docs/districts/Wohnviertel.md",
     "src/content/docs/landmarks/Annasplatz.md",
     "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/test/index.test.ts",
@@ -213,12 +219,8 @@
     "src/content/docs/landmarks/Rathaus.md",
     "src/content/docs/people/anna-senfbauer.md",
     "src/content/docs/people/ernst-and-felix-der-rote.md",
-    "src/content/docs/landmarks/omas-kuche.md",
     "src/content/docs/people/hildegard-sumpfgas.md",
     "src/content/docs/guides/Introduction.md",
-    "node_modules/@portaljs/remark-wiki-link/README.md",
-    "src/assets/logo.webp",
-    "src/assets/logo.svg",
     "public/logo.svg",
     "public/logo.webp",
     "public/Logo.webp",
