@@ -3,7 +3,7 @@ title: Omas Küche
 description: Bakery run by a reformed hag
 tags:
   - Kronenviertel
-  - landmark
   - food
+  - place
 slug: omas-kuche
 ---

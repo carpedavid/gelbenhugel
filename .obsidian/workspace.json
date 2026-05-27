@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f32d5e523c67a164",
+        "id": "4b654ff0fbf9b06a",
         "type": "tabs",
         "children": [
           {
-            "id": "d298dfe1dd044ae5",
+            "id": "b3367a41fb052390",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "src/assets/logo.webp"
-              },
-              "icon": "lucide-image",
-              "title": "logo"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -87,12 +85,25 @@
         "type": "tabs",
         "children": [
           {
+            "id": "2ef5e521ae18e8f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
             "id": "f771002675a446c7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for article"
+              "title": "Backlinks"
             }
           },
           {
@@ -111,12 +122,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from article"
+              "title": "Outgoing links"
             }
           },
           {
@@ -147,24 +157,8 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "2ef5e521ae18e8f2",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "templates/article.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of article"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,14 +175,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "0317f3be61d236a3",
+  "active": "b3367a41fb052390",
   "lastOpenFiles": [
+    "src/content/docs/people/Anna Senfbauer.md",
+    "src/content/docs/people/Else von Nesselweber.md",
+    "src/content/docs/people/Heinz von Kleinerfluss.md",
+    "src/content/docs/people/Bettina von Vierbäume.md",
+    "src/content/docs/places/Der Stadtgeist.md",
+    "src/content/docs/places/Volkshalle.md",
+    "src/content/docs/places/Promenadeplatz.md",
+    "src/content/docs/places/Odeon.md",
+    "src/content/docs/places/Glücksfuchs Brauhaus.md",
+    "src/content/docs/places/Elchgeweihbrauerei.md",
+    "src/content/docs/places/Ilsasplatz.md",
+    "src/content/docs/places/Alchemistengasse.md",
+    "src/content/docs/people/Liesel.md",
+    "src/content/docs/people/Hildegard Sumpfgas.md",
+    "src/content/docs/people/Ernst and Felix der Rote.md",
+    "src/content/docs/people/Andreas Stieler.md",
+    "src/content/docs/factions/Perilous Peregrine Questing Co.md",
+    "src/content/docs/places/Alter Hof.md",
+    "src/content/docs/places/Post.md",
+    "src/content/docs/places/Residenz.md",
+    "src/content/docs/places/Ratskeller.md",
+    "src/content/docs/places/Rathaus.md",
+    "src/content/docs/places/Omas Küche.md",
+    "src/content/docs/places/Hoftheater.md",
+    "src/content/docs/places/Glockenspiel.md",
+    "src/content/docs/places/Hofgarten.md",
+    "src/assets/logo.webp",
     "src/assets/logo.svg",
-    "src/content/docs/landmarks/omas-kuche.md",
-    "src/assets/logo.webp",
-    "src/assets/logo.webp",
-    "src/content/docs/districts/Wohnviertel.md",
-    "src/content/docs/landmarks/Annasplatz.md",
+    "src/content/docs/underground",
     "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/test/index.test.ts",
     "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/test",
     "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/src/types/mdast-util-to-markdown.d.ts",
@@ -198,29 +215,6 @@
     "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/src/index.ts",
     "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/src/from-markdown.ts",
     "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/src",
-    "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/README.md",
-    "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/tsconfig.json",
-    "node_modules/micromark-extension-wiki-link/README.md",
-    "node_modules/remark-wiki-link/README.md",
-    "node_modules/remark-wiki-link/node_modules/@types/unist/README.md",
-    "node_modules/remark-wiki-link/node_modules/zwitch/readme.md",
-    "node_modules/remark-wiki-link/node_modules/parse-entities/readme.md",
-    "node_modules/remark-wiki-link/node_modules/mdast-util-to-string/readme.md",
-    "node_modules/remark-wiki-link/node_modules/mdast-util-to-markdown/readme.md",
-    "node_modules/remark-wiki-link/node_modules/longest-streak/readme.md",
-    "node_modules/remark-wiki-link/node_modules/is-hexadecimal/readme.md",
-    "node_modules/remark-wiki-link/node_modules/is-decimal/readme.md",
-    "node_modules/remark-wiki-link/node_modules/is-alphanumerical/readme.md",
-    "node_modules/remark-wiki-link/node_modules/is-alphabetical/readme.md",
-    "node_modules/remark-wiki-link/node_modules/character-reference-invalid/readme.md",
-    "node_modules/remark-wiki-link/node_modules/character-entities-legacy/readme.md",
-    "node_modules/remark-wiki-link/node_modules/character-entities/readme.md",
-    "src/content/docs/factions/Perilous Peregrine Questing Co.md",
-    "src/content/docs/landmarks/Rathaus.md",
-    "src/content/docs/people/anna-senfbauer.md",
-    "src/content/docs/people/ernst-and-felix-der-rote.md",
-    "src/content/docs/people/hildegard-sumpfgas.md",
-    "src/content/docs/guides/Introduction.md",
     "public/logo.svg",
     "public/logo.webp",
     "public/Logo.webp",

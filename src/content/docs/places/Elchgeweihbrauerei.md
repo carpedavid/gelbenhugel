@@ -1,8 +1,8 @@
 ---
-title: Elchgeweih Brauhaus
+title: Elchgeweihbrauerei
 description: Moose Antlers Brewery
 tags:
   - Wohnviertel
-  - landmark
   - brewery
+  - place
 ---

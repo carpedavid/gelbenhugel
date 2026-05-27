@@ -5,6 +5,7 @@ tags:
   - person
   - dwarf
   - alchemist
+  - Kronenviertel
 slug: ernst-and-felix-der-rote
 ---
 Identical twin dwarven alchemists who have forgotten who is who. Early twenties with long, red beards.
