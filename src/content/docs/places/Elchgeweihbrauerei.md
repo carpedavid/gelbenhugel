@@ -4,5 +4,4 @@ description: Moose Antlers Brewery
 tags:
   - Wohnviertel
   - brewery
-  - place
 ---

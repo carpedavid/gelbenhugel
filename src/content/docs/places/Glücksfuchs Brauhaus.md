@@ -4,5 +4,4 @@ description: Lucky Fox Brewery
 tags:
   - Kronenviertel
   - brewery
-  - place
 ---

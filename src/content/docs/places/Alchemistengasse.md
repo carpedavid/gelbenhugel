@@ -4,5 +4,4 @@ description: Alchemists' Row
 tags:
   - Kronenviertel
   - neighborhood
-  - place
 ---

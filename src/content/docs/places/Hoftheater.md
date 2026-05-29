@@ -4,5 +4,4 @@ description: The royal theater
 tags:
   - Wohnviertel
   - theater
-  - place
 ---

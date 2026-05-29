@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4b654ff0fbf9b06a",
+        "id": "74b81834277ed3cb",
         "type": "tabs",
         "children": [
           {
-            "id": "b3367a41fb052390",
+            "id": "43f36e66e7f5734c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "src/content/docs/factions/Secret Keepers.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Secret Keepers"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#schreinviertel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,12 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "src/content/docs/factions/Secret Keepers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Secret Keepers"
             }
           },
           {
@@ -158,7 +173,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -175,34 +191,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "b3367a41fb052390",
+  "active": "43f36e66e7f5734c",
   "lastOpenFiles": [
-    "src/content/docs/people/Anna Senfbauer.md",
-    "src/content/docs/people/Else von Nesselweber.md",
-    "src/content/docs/people/Heinz von Kleinerfluss.md",
-    "src/content/docs/people/Bettina von Vierbäume.md",
-    "src/content/docs/places/Der Stadtgeist.md",
-    "src/content/docs/places/Volkshalle.md",
-    "src/content/docs/places/Promenadeplatz.md",
-    "src/content/docs/places/Odeon.md",
-    "src/content/docs/places/Glücksfuchs Brauhaus.md",
-    "src/content/docs/places/Elchgeweihbrauerei.md",
+    "src/content/docs/places/Geheimniswahrertempel.md",
+    "src/content/docs/factions/Secret Keepers.md",
+    "src/content/docs/places/Östlicher Garten.md",
+    "src/content/docs/places/Bibliothek.md",
+    "src/content/docs/places/Ostinstitut.md",
+    "src/content/docs/places/Skulpturensammlung.md",
+    "src/content/docs/places/Alte Galerie.md",
+    "src/content/docs/places/Neue Galerie.md",
+    "src/content/docs/places/Reliquienkammer.md",
+    "src/content/docs/places/Kunstmarkt.md",
+    "src/content/docs/places/Volkstheater.md",
+    "src/content/docs/places/Pilzfarm.md",
+    "src/content/docs/districts/Tempelviertel.md",
+    "src/content/docs/districts/Stiefelviertel.md",
+    "src/content/docs/places/Kammerspiele.md",
+    "src/content/docs/places/Luftschiffhafen.md",
+    "src/content/docs/places/Glasheiligtum.md",
+    "src/content/docs/places/Ilsastraße.md",
     "src/content/docs/places/Ilsasplatz.md",
-    "src/content/docs/places/Alchemistengasse.md",
-    "src/content/docs/people/Liesel.md",
-    "src/content/docs/people/Hildegard Sumpfgas.md",
-    "src/content/docs/people/Ernst and Felix der Rote.md",
-    "src/content/docs/people/Andreas Stieler.md",
-    "src/content/docs/factions/Perilous Peregrine Questing Co.md",
-    "src/content/docs/places/Alter Hof.md",
-    "src/content/docs/places/Post.md",
+    "src/content/docs/places/Bogenschießplatz.md",
+    "src/content/docs/places/Essigfabrik.md",
+    "src/content/docs/places/Zaubererschule.md",
+    "src/content/docs/places/Wirtshaus Zum durstigen Eber.md",
+    "src/content/docs/places/Volkshalle.md",
+    "src/content/docs/places/Schrannenhalle.md",
     "src/content/docs/places/Residenz.md",
-    "src/content/docs/places/Ratskeller.md",
-    "src/content/docs/places/Rathaus.md",
-    "src/content/docs/places/Omas Küche.md",
-    "src/content/docs/places/Hoftheater.md",
-    "src/content/docs/places/Glockenspiel.md",
-    "src/content/docs/places/Hofgarten.md",
     "src/assets/logo.webp",
     "src/assets/logo.svg",
     "src/content/docs/underground",
