@@ -5,9 +5,9 @@ tags:
 ---
 Greetings, adventurer!
 
-On behalf of the leadership and staff of the Perilous Peregrine Questing Company, allow me to extend a hearty welcome and congratulate you on your decision to affiliate yourself with the finest adventuring company in Gelbenhügel.
+On behalf of the leadership and staff of the [[src/content/docs/factions/Perilous Peregrine Questing Company]], allow me to extend a hearty welcome and congratulate you on your decision to affiliate yourself with the finest adventuring company in Gelbenhügel.
 
-Within this package you’ll find useful information on the various goods and services our caring and attentive staff and shopkeepers provide. You’ll also find helpful tips and tricks that you may find useful when navigating the dangerous and often deceptive lands that lay beyond our walls and below our feet.
+Within this guide you’ll find useful information on the various goods and services our caring and attentive staff and shopkeepers provide. You’ll also find helpful tips and tricks that you may find useful when navigating the dangerous and often deceptive lands that lay beyond our walls and below our feet.
 
 If you are a student of ancient history, then you will recall that, before the Great War, the mighty empires of dwarves, elves, gnomes, and humans built a world of peace and prosperity through diplomacy and trade. Our great city is an artifact of that era — at its height, we housed 350,000 Volk within our borders.
 

@@ -6,4 +6,4 @@ tags:
   - human
   - Wohnviertel
 ---
-Guildmaster of the [[Perilous Peregrine Questing Co]].
+Guildmaster of the [[src/content/docs/factions/Perilous Peregrine Questing Company]].

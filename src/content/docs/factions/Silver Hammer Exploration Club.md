@@ -1,5 +1,5 @@
 ---
-title: Silver Hammer
+title: Silver Hammer Exploration Club
 description: Adventuring company
 tags:
   - Marktviertel

@@ -1,5 +1,5 @@
 ---
-title: Crimson Cardinals
+title: Crimson Cardinals Questing Company
 description: Adventuring company
 tags:
   - Kronenviertel

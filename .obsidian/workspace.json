@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "74b81834277ed3cb",
+        "id": "c17a38d66bca0893",
         "type": "tabs",
         "children": [
           {
-            "id": "43f36e66e7f5734c",
+            "id": "069fd10eb1bf2c1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/docs/factions/Secret Keepers.md",
+                "file": "src/content/docs/guides/Using this guide.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Secret Keepers"
+              "title": "Using this guide"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#schreinviertel",
+                "query": "tag:#️",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,13 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/content/docs/factions/Secret Keepers.md",
+                "file": "src/content/docs/guides/Using this guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Secret Keepers"
+              "title": "Outline of Using this guide"
             }
           },
           {
@@ -173,8 +173,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,34 +190,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "43f36e66e7f5734c",
+  "active": "069fd10eb1bf2c1c",
   "lastOpenFiles": [
-    "src/content/docs/places/Geheimniswahrertempel.md",
-    "src/content/docs/factions/Secret Keepers.md",
-    "src/content/docs/places/Östlicher Garten.md",
-    "src/content/docs/places/Bibliothek.md",
-    "src/content/docs/places/Ostinstitut.md",
-    "src/content/docs/places/Skulpturensammlung.md",
-    "src/content/docs/places/Alte Galerie.md",
-    "src/content/docs/places/Neue Galerie.md",
-    "src/content/docs/places/Reliquienkammer.md",
-    "src/content/docs/places/Kunstmarkt.md",
-    "src/content/docs/places/Volkstheater.md",
-    "src/content/docs/places/Pilzfarm.md",
-    "src/content/docs/districts/Tempelviertel.md",
+    "src/content/docs/factions/Silver Hammer Exploration Club.md",
+    "src/content/docs/guides/Untitled.md",
+    "src/content/docs/factions/Crimson Cardinals Questing Company.md",
+    "src/content/docs/factions/Perilous Peregrine Questing Company.md",
+    "src/content/docs/guides/Adventuring.md",
+    "Perilous Peregrine Questing Company.md",
+    "src/content/docs/factions/Rose and Crown Ranger Guild.md",
+    "src/content/docs/guides/About.md",
+    "src/content/docs/guides/Creating a character.md",
+    "src/content/docs/Introduction.md",
+    "src/content/docs/districts/Untergrund.md",
+    "src/content/docs/districts/Akademiegarten.md",
     "src/content/docs/districts/Stiefelviertel.md",
-    "src/content/docs/places/Kammerspiele.md",
-    "src/content/docs/places/Luftschiffhafen.md",
-    "src/content/docs/places/Glasheiligtum.md",
-    "src/content/docs/places/Ilsastraße.md",
-    "src/content/docs/places/Ilsasplatz.md",
-    "src/content/docs/places/Bogenschießplatz.md",
-    "src/content/docs/places/Essigfabrik.md",
-    "src/content/docs/places/Zaubererschule.md",
+    "src/content/docs/districts/Tempelviertel.md",
+    "src/content/docs/release notes/0.0.2.md",
+    "src/content/docs/Untitled.md",
+    "src/content/docs/release notes",
+    "src/content/docs/guides/Copyright.md",
+    "src/content/docs/places/Elchgeweihbrauerei.md",
+    "src/content/docs/places/Brauhaus Weißwolf.md",
+    "src/content/docs/places/Glücksfuchs Brauhaus.md",
     "src/content/docs/places/Wirtshaus Zum durstigen Eber.md",
-    "src/content/docs/places/Volkshalle.md",
-    "src/content/docs/places/Schrannenhalle.md",
-    "src/content/docs/places/Residenz.md",
+    "src/content/docs/guides/Food and Drink.md",
+    "src/content/docs/guides/Names.md",
+    "src/content/docs/volk/Kobolds.md",
+    "src/content/docs/volk/Humans.md",
+    "src/content/docs/volk/Untitled.md",
+    "src/content/docs/creatures",
+    "src/content/docs/things",
     "src/assets/logo.webp",
     "src/assets/logo.svg",
     "src/content/docs/underground",
@@ -228,9 +230,6 @@
     "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/src/types/micromark-extension-wiki-link.ts",
     "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/src/types",
     "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/src/to-markdown.ts",
-    "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/src/index.ts",
-    "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/src/from-markdown.ts",
-    "node_modules/remark-wiki-link/node_modules/mdast-util-wiki-link/src",
     "public/logo.svg",
     "public/logo.webp",
     "public/Logo.webp",

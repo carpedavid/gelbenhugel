@@ -1,5 +1,5 @@
 ---
-title: Rose and Crown
+title: Rose and Crown Ranger Guild
 description: Adventuring company
 tags:
   - Stiefelviertel

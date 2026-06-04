@@ -1,5 +1,5 @@
 ---
-title: Perilous Peregrine Questing Co
+title: Perilous Peregrine Questing Company
 description: Adventuring company
 tags:
   - Wohnviertel
