@@ -1,0 +1,1 @@
+Welcome to Gelbenhügel, a free, open-content campaign setting for OSR systems based *very loosely* on historic Munich.
