@@ -7,6 +7,6 @@ tags:
 ---
 
 - Brewer and City Council member
-- Glücksfuchs "lucky fox" brewery
+- Owner of the [Glücksfuchs Brauhaus](../places/Glücksfuchs%20Brauhaus.md)
 - Hates Heinz' family
 - Symbol is a fox

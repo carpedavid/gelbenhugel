@@ -1,6 +1,6 @@
 ---
 title: Frieda Stein
-description: Sculpter
+description: Dwarven Sculpter
 tags:
 ---
 Sculpter

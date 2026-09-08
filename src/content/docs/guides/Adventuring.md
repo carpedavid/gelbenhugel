@@ -33,6 +33,6 @@ Guild points
 ## Adventuring Companies
 
 - [Perilous Peregrine Questing Company](../factions/perilous-peregrine-questing-company.md)
-- [Rose and Crown Ranger Guild](../factions/Rose-and-Crown-Ranger-Guild.md)
-- [Silver Hammer Exploration Club](../factions/Silver-Hammer-Exploration-Club.md)
-- [Crimson Cardinals Questing Company](../factions/Crimson-Cardinals-Questing-Company.md)
+- [Rose and Crown Ranger Guild](../factions/rose-and-crown-ranger-guild.md)
+- [Silver Hammer Exploration Club](../factions/silver-hammer-exploration-club.md)
+- [Crimson Cardinals Questing Company](../factions/crimson-cardinals-questing-company.md)

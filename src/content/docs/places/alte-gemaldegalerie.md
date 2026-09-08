@@ -1,6 +1,6 @@
 ---
 title: Alte Gemäldegalerie
-description: Old Gallery
+description: Old Painting Gallery
 tags:
   - kunstareal
   - museum
