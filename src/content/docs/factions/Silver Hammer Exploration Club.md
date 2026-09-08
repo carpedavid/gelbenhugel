@@ -6,4 +6,5 @@ tags:
   - faction
   - adventuring-company
 ---
- - Focused on exploration of the underworld
+
+- Focused on exploration of the underworld

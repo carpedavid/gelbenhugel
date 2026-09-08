@@ -1,6 +1,6 @@
 ---
-title:
-description:
+title: Food and Drink
+description: Food and Drink
 tags:
 ---
 - Wirtshaus — large-scale breweries that produce lagers.

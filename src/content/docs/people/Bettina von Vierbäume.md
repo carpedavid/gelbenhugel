@@ -5,6 +5,7 @@ tags:
   - person
   - city-council
 ---
+
 - Brewer and City Council member
 - Glücksfuchs "lucky fox" brewery
 - Hates Heinz' family

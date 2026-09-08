@@ -3,9 +3,10 @@ title: Introduction
 description: Greetings adventurer!
 tags:
 ---
+
 Greetings, adventurer!
 
-On behalf of the leadership and staff of the [[src/content/docs/factions/Perilous Peregrine Questing Company]], allow me to extend a hearty welcome and congratulate you on your decision to affiliate yourself with the finest adventuring company in Gelbenhügel.
+On behalf of the leadership and staff of the [Perilous Peregrine Questing Company](/factions/Perilous%20Peregrine%20Questing%20Company.md), allow me to extend a hearty welcome and congratulate you on your decision to affiliate yourself with the finest adventuring company in Gelbenhügel.
 
 Within this guide you’ll find useful information on the various goods and services our caring and attentive staff and shopkeepers provide. You’ll also find helpful tips and tricks that you may find useful when navigating the dangerous and often deceptive lands that lay beyond our walls and below our feet.
 
