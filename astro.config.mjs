@@ -1,8 +1,19 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
+import { satteri } from '@astrojs/markdown-satteri';
+import satteriCallouts from 'satteri-callouts';
+import { satteriResolveMarkdownLinks } from 'satteri-resolve-markdown-links';
 import starlight from '@astrojs/starlight';
 
 export default defineConfig({
+	markdown: {
+		processor: satteri({
+			hastPlugins: [
+				satteriCallouts(),
+				satteriResolveMarkdownLinks({rootDir: './src/content/docs'})
+			]
+		})
+	},
 	integrations: [
 		starlight({
 			title: 'Gelbenhügel',
@@ -19,10 +30,14 @@ export default defineConfig({
 				{
 					label: 'Volk',
 					items: [{ autogenerate: { directory: 'volk' } }],
-				},				
+				},
 				{
 					label: 'Districts',
 					items: [{ autogenerate: { directory: 'districts' } }],
+				},
+				{
+					label: 'Factions',
+					items: [{ autogenerate: { directory: 'factions' } }],
 				},
 			],
 		}),

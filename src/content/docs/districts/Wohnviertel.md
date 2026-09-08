@@ -12,6 +12,6 @@ test
 
 etststs
 
-[Annasplatz](<Annasplatz.md>)
+[Annasplatz](../places/Annasplatz.md)
 
 

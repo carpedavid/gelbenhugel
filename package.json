@@ -10,9 +10,13 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/markdown-satteri": "^0.4.0",
     "@astrojs/starlight": "^0.41.7",
     "@portaljs/remark-wiki-link": "^1.2.0",
     "astro": "^7.2.4",
+    "satteri": "^0.8.1",
+    "satteri-callouts": "^1.0.1",
+    "satteri-resolve-markdown-links": "^0.1.2",
     "sharp": "^0.34.5"
   }
 }

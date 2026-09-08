@@ -6,6 +6,6 @@ tags:
   - city-council
 ---
 - Brewer and City Council member
-- Owner of the [Elchgeweihbrauerei](<Elchgeweihbrauerei.md>) 
+- Owner of the [Elchgeweihbrauerei](../places/Elchgeweihbrauerei.md)
 - Hates Bettina's family
 - Symbol is a moose

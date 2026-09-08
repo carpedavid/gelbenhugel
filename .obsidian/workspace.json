@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c17a38d66bca0893",
+        "id": "3ac1e7bea40eec59",
         "type": "tabs",
         "children": [
           {
-            "id": "069fd10eb1bf2c1c",
+            "id": "dcc23dadbeec0bb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/content/docs/guides/Introduction.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "New tab"
             }
           }
         ]
@@ -106,7 +92,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/content/docs/guides/Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,20 +177,38 @@
       "bases:Create new base": false
     }
   },
-  "active": "069fd10eb1bf2c1c",
+  "active": "dcc23dadbeec0bb0",
   "lastOpenFiles": [
-    "src/content/docs/factions/Perilous Peregrine Questing Company.md",
     "src/content/docs/guides/Introduction.md",
-    "factions/Perilous Peregrine Questing Company.md",
-    "factions",
-    "src/content/docs/creatures/Säbelzahn Stachelschwein.md",
+    "src/content/docs/guides/Adventuring.md",
+    "src/content/docs/factions/perilous-peregrine-questing-company.md",
+    "src/content/docs/creatures/Drachen.md",
+    "src/content/docs/volk/Gnomes.md",
+    "src/content/docs/guides/Using-this-guide.md",
+    "public/custom.css",
+    "src/content/docs/guides/License.md",
+    "src/content/docs/guides/Law-and-Order.md",
+    "src/content/docs/guides/Food-and-Drink.md",
+    "src/content/docs/guides/Creating-a-character.md",
+    "src/content/docs/factions/Silver-Hammer-Exploration-Club.md",
+    "src/content/docs/factions/Secret-Keepers.md",
+    "src/content/docs/factions/Rose-and-Crown-Ranger-Guild.md",
+    "src/content/docs/factions/Crimson-Cardinals-Questing-Company.md",
+    "src/content/docs/districts/Die-Wiesen.md",
+    "src/content/docs/districts/Akademiegarten.md",
+    "src/content/docs/creatures/Säbelzahn-Stachelschwein.md",
     "src/content/docs/creatures/Kartoffelkäfer.md",
     "src/content/docs/creatures/Hexen.md",
-    "src/content/docs/creatures/Drachen.md",
+    "src/content/docs/people/Liesel.md",
+    "src/content/docs/people/Heinz von Kleinerfluss.md",
+    "src/content/docs/people/Anna Senfbauer.md",
+    "src/content/docs/people/Andreas Stieler.md",
+    "factions/Perilous Peregrine Questing Company.md",
+    "src/content/docs/volk/Elves.md",
+    "src/content/docs/volk/Dwarves.md",
+    "factions",
     "src/assets/logo.svg",
-    "src/content/docs/people/Bettina von Vierbäume.md",
     "src/content/docs/guides/Introduction.ms",
-    "src/content/docs/guides/Creating a character.md",
     "node_modules/astro/dist/core/logger/vite-plugin.d.ts",
     "node_modules/astro/dist/core/build/vite-build-config.d.ts",
     "node_modules/astro/dist/core/logger/utils.d.ts",
@@ -213,24 +216,6 @@
     "node_modules/astro/dist/cli/dev/stop.d.ts",
     "node_modules/astro/dist/cli/dev/status.d.ts",
     "node_modules/astro/dist/prefetch/speculation-rules.d.ts",
-    "node_modules/astro/dist/cli/server.d.ts",
-    "node_modules/astro/src/types/README.md",
-    "node_modules/astro/src/core/README.md",
-    "node_modules/undici/README.md",
-    "node_modules/undici/types/README.md",
-    "node_modules/undici/docs/docs/api/Util.md",
-    "node_modules/undici/docs/docs/api/api-lifecycle.md",
-    "node_modules/undici/docs/docs/api/WebSocket.md",
-    "node_modules/undici/docs/docs/api/Socks5ProxyAgent.md",
-    "node_modules/undici/docs/docs/api/SnapshotAgent.md",
-    "node_modules/undici/docs/docs/api/RoundRobinPool.md",
-    "node_modules/undici/docs/docs/api/RetryHandler.md",
-    "node_modules/undici/docs/docs/api/RetryAgent.md",
-    "node_modules/undici/docs/docs/api/RedirectHandler.md",
-    "node_modules/undici/docs/docs/api/ProxyAgent.md",
-    "node_modules/undici/docs/docs/api/PoolStats.md",
-    "node_modules/undici/docs/docs/api/Pool.md",
-    "node_modules/undici/docs/docs/api/MockPool.md",
     "src/assets/logo.webp",
     "public/logo.svg",
     "public/logo.webp",

@@ -6,4 +6,4 @@ tags:
   - halfling
   - Wohnviertel
 ---
-- Bibliothekar for the [Perilous Peregrine Questing Company](<Perilous Peregrine Questing Company.md>).
+- Bibliothekar for the [perilous-peregrine-questing-company](../factions/perilous-peregrine-questing-company.md)
