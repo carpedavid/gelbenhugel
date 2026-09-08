@@ -12,3 +12,9 @@ If you wish to additionally indicate compatibility with *Gelbenhügel*, such as 
 3. You may not give the impression that this is an official *Gelbenhügel* product or that Amalara Game Studio endorses you in any way without a separate agreement.
 
 Remember that *Gelbenhügel* is an optimistic, inclusive, and diverse setting. Fascism, homophobia, transphobia, racism, xenophobia, and sexism aren't welcome.
+## Logos
+
+Download the "Designed with Care in Gelbenhügel" compatibility logos below.
+
+- [Color](../../../assets/compatibility-logo.svg)
+- [Black and White](../../../assets/compatibility-logo-black-and-white.svg)

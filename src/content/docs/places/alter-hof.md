@@ -1,6 +1,7 @@
 ---
 title: Alter Hof
-description: The old residence of the Grand Duke
+description: Old Court
 tags:
   - Wohnviertel
 ---
+The old residence of the Grand Duke

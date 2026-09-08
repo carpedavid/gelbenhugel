@@ -1,6 +1,6 @@
 ---
 title: Der Stadtgeist
-description: The Spirit of the city
+description: The Spirit of the City
 tags:
   - statue
   - Kronenviertel

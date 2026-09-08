@@ -6,7 +6,7 @@ tags:
 
 To create a name that feels native to Gelbenhügel, roll 1d20 two times on the following table — once for a masculine or feminine given name, and once for the family name.
 
-| d20 | Masculine | Feminie  | Family    |
+| d20 | Masculine | Feminine | Family    |
 | --- | --------- | -------- | --------- |
 | 1   | Albert    | Anna     | Bauer     |
 | 2   | Erich     | Astrid   | Becker    |

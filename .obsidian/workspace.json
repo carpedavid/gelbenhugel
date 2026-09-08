@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/docs/volk/kobolds.md",
+                "file": "src/content/docs/creatures/drachen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "kobolds"
+              "title": "drachen"
             }
           }
         ]
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/content/docs/volk/kobolds.md",
+                "file": "src/content/docs/creatures/drachen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -194,32 +194,34 @@
   },
   "active": "dcc23dadbeec0bb0",
   "lastOpenFiles": [
-    "src/content/docs/volk/humans.md",
-    "src/content/docs/volk/halflings.md",
-    "src/content/docs/volk/half-orc.md",
-    "src/content/docs/volk/gnomes.md",
-    "src/content/docs/volk/goblins.md",
-    "src/content/docs/volk/elves.md",
-    "src/content/docs/volk/dwarves.md",
-    "src/content/docs/places/alter-hof.md",
-    "src/content/docs/places/alte-gemaldegalerie.md",
-    "src/content/docs/places/alchemistengasse.md",
+    "src/content/docs/guides/license-and-logos.md",
+    "src/content/docs/people/andreas-stieler.md",
     "src/content/docs/people/walter-kraus.md",
     "src/content/docs/people/marta-wolff.md",
     "src/content/docs/people/liesel.md",
     "src/content/docs/people/johann-vogel.md",
     "src/content/docs/people/hildegard-sumpfgas.md",
     "src/content/docs/people/heinz-von-kleinerfluss.md",
-    "src/content/docs/places/Elchgeweihbrauerei.md",
-    "src/content/docs/people/frieda-stein.md",
-    "src/content/docs/places/Der Stadtgeist.md",
-    "src/content/docs/people/else-von-nesselweber.md",
-    "src/content/docs/people/britta-funkensturm.md",
     "src/content/docs/people/bettina-von-vierbaume.md",
-    "src/content/docs/people/anna-senfbauer.md",
-    "src/content/docs/people/andreas-stieler.md",
+    "src/content/docs/people/frieda-stein.md",
     "src/content/docs/people/ernst-and-felix-der-rote.md",
-    "src/content/docs/factions/alchemistengilde.md",
+    "src/content/docs/people/else-von-nesselweber.md",
+    "src/content/docs/places/wirtshaus-zum-durstigen-eber.md",
+    "src/content/docs/people/britta-funkensturm.md",
+    "src/content/docs/people/anna-senfbauer.md",
+    "src/content/docs/places/alchemistengasse.md",
+    "src/content/docs/places/alte-gemaldegalerie.md",
+    "src/content/docs/places/hofgarten.md",
+    "src/content/docs/places/alter-hof.md",
+    "src/content/docs/places/amselplatz.md",
+    "src/content/docs/places/amseltor.md",
+    "src/content/docs/places/annasplatz.md",
+    "src/content/docs/places/bibliothek.md",
+    "src/content/docs/places/bogenschiessplatz.md",
+    "src/content/docs/places/brauhaus-weisswolf.md",
+    "src/content/docs/places/brauschule.md",
+    "src/assets/compatibility-logo.svg",
+    "src/assets/compatibility-logo-black-and-white.svg",
     "public/custom.css",
     "factions",
     "src/assets/logo.svg",

@@ -1,6 +1,6 @@
 ---
 title: Hofgarten
-description: The royal garden
+description: Royal Garden
 tags:
   - Wohnviertel
   - garden

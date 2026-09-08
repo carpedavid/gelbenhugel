@@ -1,6 +1,6 @@
 ---
 title: Kammerspiele
-description: Small theater
+description: Chamber Theater
 tags:
   - lagerbezirk
   - theater

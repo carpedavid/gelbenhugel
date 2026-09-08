@@ -1,6 +1,6 @@
 ---
 title: Östlicher Garten
-description: The Eastern Garden
+description: Eastern Garden
 tags:
   - akademiegarten
   - garden

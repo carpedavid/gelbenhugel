@@ -1,6 +1,6 @@
 ---
 title: Marktplatz
-description: The Marketplace
+description: Market Square
 tags:
   - platz
   - Marktviertel

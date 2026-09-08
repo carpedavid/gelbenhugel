@@ -1,6 +1,6 @@
 ---
 title: Post
-description: Post office
+description: Post Office
 tags:
   - Wohnviertel
 ---

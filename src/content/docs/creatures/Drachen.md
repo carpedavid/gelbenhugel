@@ -1,6 +1,6 @@
 ---
 title: Drachen
-description: About dragons
+description: The dragons of the East Lands
 tags:
 ---
 The dragons of Gelbenhügel are genderless, solitary, and reproduce asexually. Individual dragons may adopt a female or male persona when dealing with creatures that possess the concept of gender.

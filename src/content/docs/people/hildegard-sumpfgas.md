@@ -5,9 +5,8 @@ tags:
   - person
   - hag
   - Kronenviertel
-slug: hildegard-sumpfgas
 ---
-Owner of [Omas Küche](../places/Omas%20Küche.md).
+Owner of [Omas Küche](../places/omas-kuche.md), located on the [Alchemistengasse](../places/alchemistengasse.md).
 
 A `hag` who has renounced her wicked ways and retired to the city to bake cruelty-free meat pies. They are bewitchingly delicious. Maybe a little *too* delicious. 
 

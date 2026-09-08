@@ -1,6 +1,6 @@
 ---
 title: Pilzfarm
-description: Mushroom farm
+description: Mushroom Farm
 tags:
   - sturmseite
   - farm

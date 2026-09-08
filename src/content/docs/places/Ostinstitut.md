@@ -1,6 +1,6 @@
 ---
 title: Ostinstitut
-description: The Eastern Institue
+description: Eastern Institute
 tags:
   - school
   - akademiegarten

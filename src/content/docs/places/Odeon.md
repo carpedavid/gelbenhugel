@@ -1,6 +1,6 @@
 ---
 title: Odeon
-description: Theater
+description: Odeon Theater
 tags:
   - theater
   - Kronenviertel

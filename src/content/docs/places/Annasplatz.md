@@ -1,7 +1,8 @@
 ---
 title: Annasplatz
-description: Main square in the city center, on which the Rathaus is situated.
+description: Anna's Place
 tags:
   - Wohnviertel
   - platz
 ---
+Main square in the city center, on which the [Rathaus](./rathaus.md) is situated.

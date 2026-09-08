@@ -12,7 +12,7 @@ Within this guide you’ll find useful information on the various goods and serv
 
 If you are a student of ancient history, then you will recall that, before the Great War, the mighty empires of dwarves, elves, gnomes, and humans built a world of peace and prosperity through diplomacy and trade. Our great city is an artifact of that era — at its height, we housed 350,000 Volk within our borders.
 
-Then the Heretics of *Nichtswesens* opened the Demon Gate and shattered the peace. Pestilence, famine, and war decimated our world, destroyed the mighty empires, and devastated our city. We were left with nothing but dilapidated ruins, hungry monsters, and murderous bandits…which, to the resilient Volk of Gelbenhügel, meant endless opportunity for power and glory!
+Then the [Heretics of Nichtswesens](../factions/heretics-of-nichtswesens.md) opened the Demon Gate and shattered the peace. Pestilence, famine, and war decimated our world, destroyed the mighty empires, and devastated our city. We were left with nothing but dilapidated ruins, hungry monsters, and murderous bandits…which, to the resilient Volk of Gelbenhügel, meant endless opportunity for power and glory!
 
 Adventuring companies like ours powered the city's recovery by reclaiming treasures of ages past, protecting our citizens from fearsome monsters, and driving gangs of bandits and raiders far beyond our borders. You have chosen to follow in the storied footsteps of our city's bravest and boldest heroes.
 
@@ -20,4 +20,4 @@ So spread your wings, adventurer! Explore crumbling catacombs, slay ravenous bea
 
 May the spirits be ever in your favor,
 
-Andreas Stieler, Gildenmeister
+[Andreas Stieler](../people/andreas-stieler.md), Gildenmeister

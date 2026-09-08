@@ -1,6 +1,6 @@
 ---
 title: Neue Galerie
-description: New Gallery
+description: New Picture Gallery
 tags:
   - kunstareal
   - museum

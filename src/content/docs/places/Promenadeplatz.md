@@ -1,6 +1,6 @@
 ---
 title: Promenadeplatz
-description: Parade Place
+description: Parade Square
 tags:
   - Kronenviertel
   - platz

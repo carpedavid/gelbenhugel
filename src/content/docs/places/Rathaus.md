@@ -1,6 +1,6 @@
 ---
 title: Rathaus
-description: City hall
+description: City Hall
 tags:
   - Wohnviertel
 ---

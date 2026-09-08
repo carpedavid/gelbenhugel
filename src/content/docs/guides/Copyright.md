@@ -5,7 +5,7 @@ tags:
 ---
 **Written and illustrated by** David Garrett
 
-**Playtested by** Sibel Baslamisli, Mason Fisher, Matt Friedlander, Rob Hays, Andrew Key, David Kuchler, Dave McQuery, Ellie Miller, Scott Perry, Jared Woodard, Patrick Zmina
+**Playtested by** Sibel Baslamisli, Mason Fisher, Gretta Foxx, Matt Friedlander, Rob Hays, Andrew Key, David Kuchler, Dave McQuery, Virginia Meyer, Ellie Miller, Scott Perry, Jared Woodard, Patrick Zmina
 
 ——
 

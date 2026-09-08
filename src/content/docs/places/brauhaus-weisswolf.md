@@ -1,6 +1,6 @@
 ---
 title: Brauhaus Weißwolf
-description: White Wolf Brewery
+description: Brewhouse Whitewolf
 tags:
   - Marktviertel
   - brewery

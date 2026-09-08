@@ -7,6 +7,6 @@ tags:
 ---
 
 - Brewer and City Council member
-- Owner of the [Glücksfuchs Brauhaus](../places/Glücksfuchs%20Brauhaus.md)
-- Hates Heinz' family
+- Owner of the [Glucksfuchs Brauhaus](../places/glucksfuchs-brauhaus.md)
+- Hates [Heinz von Kleinerfluss](./heinz-von-kleinerfluss.md)' family
 - Symbol is a fox

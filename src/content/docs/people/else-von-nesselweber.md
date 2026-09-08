@@ -6,6 +6,6 @@ tags:
   - city-council
 ---
 - Brewer and City Council member
-- Durstigeber "thirsty boar" brewery. Biggest of the four. Biggest ego as well.
+- Owner of [Wirtshaus zum durstigen Eber](../places/wirtshaus-zum-durstigen-eber.md), the biggest of Gelbenhügel's four breweries. Biggest ego as well.
 - Hates everyone
 - Symbol is a boar

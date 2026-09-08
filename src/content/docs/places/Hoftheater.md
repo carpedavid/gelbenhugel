@@ -1,6 +1,6 @@
 ---
 title: Hoftheater
-description: The royal theater
+description: Royal Theater
 tags:
   - Wohnviertel
   - theater
