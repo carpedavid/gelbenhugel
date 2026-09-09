@@ -16,5 +16,4 @@ Remember that *Gelbenhügel* is an optimistic, inclusive, and diverse setting. F
 
 Download the "Designed with Care in Gelbenhügel" compatibility logos below.
 
-- [Color](../../../assets/compatibility-logo.svg)
-- [Black and White](../../../assets/compatibility-logo-black-and-white.svg)
+![](../../../assets/compatibility-logo.svg)![](../../../assets/compatibility-logo-black-and-white.svg)

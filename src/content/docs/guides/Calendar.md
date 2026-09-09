@@ -18,10 +18,11 @@ Before the Great War, the Volk standardized the names of the days of the week fo
 
 Gelbenhügeler typically view Midweek as a day of rest and relaxation and Week End as a day for celebration and frivolity. Whenever there is not *another* festival being held on Week End, the clergy of the Spirit of the City hold *Wochenendfestival*, a massive, lager-fueled feast in the Volkshalle, beneath the colossal bronze statue of the city's founder.
 
-The 320 day year has 4 major seasons and 4 micro-seasons, each two weeks long.
+The 320 day year has 4 major seasons and 20 micro-seasons, each two weeks long.
 
-| Spring              | Frühling         |
+| Season              | Name             |
 | ------------------- | ---------------- |
+| **Spring**          | **Frühling**     |
 | New Year            | Neujahr          |
 | Rainwater           | Regenwasser      |
 | Insects awaken      | Insektenmorgen   |
@@ -51,9 +52,9 @@ The 320 day year has 4 major seasons and 4 micro-seasons, each two weeks long.
 - **Neujahr** — the First Day of spring marks the beginning of the year.
 - **Starkbierfest** — the "strong beer festival" runs for three weeks in early spring. Held in each brewery instead of a central location, as each brewery produces its own version of a hearty, higher-proof beer.
 - **Frühlingsfest** — end of spring beer festival.
-- **Senffest** — the Mustard Festival is held the first and second Week End of summer in the *Promenadeplatz*. Residents of the city gather to eat pretzels and wursts, drink lager and *Sprudelwasser*, and sample mustard from the finest farmers and artisans in the Eastlands.
+- **Senffest** — the Mustard Festival is held the first and second Week End of summer in the [Promenadeplatz](../places/promenadeplatz.md). Residents of the city gather to eat pretzels and wursts, drink lager and *[Sprudelwasser](./food-and-drink.md)*, and sample mustard from the finest farmers and artisans in the Eastlands.
 - **Kocherlball** — early morning dancing and beer in early summer. "Cooks Ball" originated as an early morning festival for domestic service staff.
 - **Mittsommer** —
 - **Wintermarkt** — winter market, held during the month leading up to Midwinter in Annaplatz. Seasonal food and crafts: *Glühwein* and *Kinderpunsch*, gingerbread, gifts and decorations.
-- **Krampusnacht** — families put out offerings of schnapps so that the Midwinter Monster does not take their children.
+- **Krampusnacht** — families put out offerings of schnapps so that the [Midwinter Monster](../creatures/krampus.md) does not take their children.
 - **Mittwinter**

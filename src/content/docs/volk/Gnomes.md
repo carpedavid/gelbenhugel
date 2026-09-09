@@ -8,9 +8,11 @@ tags:
 
 You know the Common and Gnomish languages.
 
-> [!info] Cairn
-> - +2 Willpower
-> - **Trickery**: Three times per day, you can cause a damage roll against you or an ally who you can see to be `impaired`.
+:::note[Cairn]
+ - +2 Willpower
+ - **Trickery**: Three times per day, you can cause a damage roll against you or an ally who you can see to be `impaired`.
+ :::
 
-> [!info] Shadowdark
+:::note[Shadowdark]
+:::
 
